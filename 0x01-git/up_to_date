@@ -1,1 +1,2 @@
-git push
+echo "up_to_date"
+git pull
